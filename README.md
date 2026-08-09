@@ -2,7 +2,7 @@
 
 # TheOrangeCow
 
-Hi, I am an enthusiastic developer with a passion for building creative and efficient solutions. I love exploring new technologies, contributing to open-source projects, and turning ideas into reality. Whether it's coding, automating tasks, or experimenting with 3D printing, I thrive on challenges that let me learn and grow every day. (Not writen with AI trust)
+Hi, I am an enthusiastic developer with a passion for building creative and efficient solutions. I love exploring new technologies, contributing to open-source projects, and turning ideas into reality. Whether it's coding, automating tasks, or experimenting with 3D printing, I thrive on challenges that let me learn and grow every day. (That paragraph was not written by AI trust)
 
 ### My websites
 
